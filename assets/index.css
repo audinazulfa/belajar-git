@@ -1,0 +1,18 @@
+p {
+    color: red;
+    font-size: 24px;
+}
+p#a {
+    color: gold;
+}
+p#b {
+    color: blueviolet;
+}
+p#c {
+    color: darkslateblue;
+}
+.wrapper {
+    padding: 10px;
+    margin: 12px;
+    background-color: aqua;
+}
